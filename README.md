@@ -1,2 +1,6 @@
-# My-programming-journey-
-My coding journey in C, Python, Git&amp;AI/ML.
+Hi, I am Annlitta 
+🌷 currently learning :
+Python 
+Git&GitHub
+AI, Cybersecurity, Datascience, & Machine learning 
+This repository contains my learning programs and practice files
